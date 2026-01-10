@@ -17,7 +17,7 @@
 
 ### Featured Projects
 
-- **[Launchicube](https://github.com/Tycho10101/PythonWalker)**  
+- **[PythonWalker](https://github.com/Tycho10101/PythonWalker)**  
   <sub>My bot library for Pixelwalker made in python!</sub>
 - **[POG](https://github.com/Tycho10101/pog)** (Probably Optimized Giga Image File Format)  
   <sub>My own experimental image file format based on bruhiff</sub>
