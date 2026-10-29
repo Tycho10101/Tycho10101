@@ -45,6 +45,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tycho10101&show_icons=true&theme=shadow_red" alt="Tycho10101's GitHub Stats" />
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Tycho10101&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=Tycho10101&include_all_commits=true&theme=monokai)
